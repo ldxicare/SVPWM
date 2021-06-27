@@ -6,7 +6,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "8.9"
+    ComputedModelVersion    "8.25"
     NumModelReferences	    0
     NumTestPointedSignals   0
     NumProvidedFunctions    0
@@ -127,7 +127,7 @@ Model {
       $ObjectID		      2
       $ClassName	      "Simulink.WindowInfo"
       IsActive		      [1]
-      Location		      [223.0, 34.0, 1936.0, 1056.0]
+      Location		      [-8.0, 97.0, 1936.0, 1056.0]
       Object {
 	$PropName		"ModelBrowserInfo"
 	$ObjectID		3
@@ -143,43 +143,43 @@ Model {
 	$PropName		"ExplorerBarInfo"
 	$ObjectID		4
 	$ClassName		"Simulink.ExplorerBarInfo"
-	Visible			[0]
+	Visible			[1]
       }
       Array {
 	Type			"Simulink.EditorInfo"
 	Dimension		14
 	Object {
 	  $ObjectID		  5
-	  IsActive		  [0]
-	  IsTabbed		  [1]
-	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "400"
-	  Extents		  [1334.0, 845.0]
-	  ZoomFactor		  [1.0]
-	  Offset		  [-65.21697650059059, -2.4787992164644947]
-	  SceneRectInView	  [-65.21697650059059, -2.4787992164644947, 1334.0, 845.0]
-	}
-	Object {
-	  $ObjectID		  6
-	  IsActive		  [0]
-	  IsTabbed		  [1]
-	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "130"
-	  Extents		  [1882.0, 845.0]
-	  ZoomFactor		  [1.5]
-	  Offset		  [-178.81428571428569, -25.714285714285779]
-	  SceneRectInView	  [-178.81428571428569, -25.714285714285779, 1254.6666666666667, 563.33333333333337]
-	}
-	Object {
-	  $ObjectID		  7
 	  IsActive		  [1]
 	  IsTabbed		  [1]
 	  ViewObjType		  "SimulinkTopLevel"
 	  LoadSaveID		  "0"
-	  Extents		  [1882.0, 845.0]
-	  ZoomFactor		  [0.6]
-	  Offset		  [-151.98729698287161, -759.70861019390782]
-	  SceneRectInView	  [-151.98729698287161, -759.70861019390782, 3136.666666666667, 1408.3333333333335]
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [0.79999999999999993]
+	  Offset		  [-222.98720912313149, -605.29164932963579]
+	  SceneRectInView	  [-222.98720912313149, -605.29164932963579, 2352.5, 1018.7500000000001]
+	}
+	Object {
+	  $ObjectID		  6
+	  IsActive		  [0]
+	  IsTabbed		  [0]
+	  ViewObjType		  "SimulinkSubsys"
+	  LoadSaveID		  "130"
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [1.5]
+	  Offset		  [-178.81428571428569, -25.714285714285779]
+	  SceneRectInView	  [-178.81428571428569, -25.714285714285779, 1254.6666666666667, 543.33333333333337]
+	}
+	Object {
+	  $ObjectID		  7
+	  IsActive		  [0]
+	  IsTabbed		  [0]
+	  ViewObjType		  "SimulinkSubsys"
+	  LoadSaveID		  "176"
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [0.79999999999999993]
+	  Offset		  [-449.47347872781779, -146.81852424313263]
+	  SceneRectInView	  [-449.47347872781779, -146.81852424313263, 2352.5, 1018.7500000000001]
 	}
 	Object {
 	  $ObjectID		  8
@@ -187,10 +187,10 @@ Model {
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
 	  LoadSaveID		  "215"
-	  Extents		  [1882.0, 845.0]
-	  ZoomFactor		  [2.0]
-	  Offset		  [272.33559773559773, -148.8264402264405]
-	  SceneRectInView	  [272.33559773559773, -148.8264402264405, 941.0, 422.5]
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [1.9289940828402368]
+	  Offset		  [255.01657933068975, -148.8264402264405]
+	  SceneRectInView	  [255.01657933068975, -148.8264402264405, 975.638036809816, 422.5]
 	}
 	Object {
 	  $ObjectID		  9
@@ -198,65 +198,65 @@ Model {
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
 	  LoadSaveID		  "614"
-	  Extents		  [1882.0, 845.0]
-	  ZoomFactor		  [1.5]
-	  Offset		  [140.01688988095168, -59.590476190476011]
-	  SceneRectInView	  [140.01688988095168, -59.590476190476011, 1254.6666666666667, 563.33333333333337]
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [1.25]
+	  Offset		  [-56.687083242039193, 3.9461875547764862]
+	  SceneRectInView	  [-56.687083242039193, 3.9461875547764862, 1505.6, 652.0]
 	}
 	Object {
 	  $ObjectID		  10
 	  IsActive		  [0]
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "484"
-	  Extents		  [1882.0, 845.0]
+	  LoadSaveID		  "526"
+	  Extents		  [1882.0, 815.0]
 	  ZoomFactor		  [0.8]
-	  Offset		  [-365.40747767857169, -241.00000000000045]
-	  SceneRectInView	  [-365.40747767857169, -241.00000000000045, 2352.5, 1056.25]
+	  Offset		  [-259.35461469288714, -224.35905638329018]
+	  SceneRectInView	  [-259.35461469288714, -224.35905638329018, 2352.5, 1018.75]
 	}
 	Object {
 	  $ObjectID		  11
 	  IsActive		  [0]
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "568"
-	  Extents		  [1334.0, 845.0]
-	  ZoomFactor		  [1.7499999999999998]
-	  Offset		  [48.497070270667848, 256.83668946776493]
-	  SceneRectInView	  [48.497070270667848, 256.83668946776493, 762.28571428571433, 482.85714285714295]
+	  LoadSaveID		  "484"
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [1.5]
+	  Offset		  [370.16729076599722, -36.634319012700644]
+	  SceneRectInView	  [370.16729076599722, -36.634319012700644, 1254.6666666666667, 543.33333333333337]
 	}
 	Object {
 	  $ObjectID		  12
 	  IsActive		  [0]
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "442"
-	  Extents		  [1334.0, 845.0]
-	  ZoomFactor		  [0.8]
-	  Offset		  [-293.60271577381013, -144.01666666666785]
-	  SceneRectInView	  [-293.60271577381013, -144.01666666666785, 1667.5, 1056.25]
+	  LoadSaveID		  "568"
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [0.6]
+	  Offset		  [-387.20187802030614, -219.18519192282855]
+	  SceneRectInView	  [-387.20187802030614, -219.18519192282855, 3136.666666666667, 1358.3333333333335]
 	}
 	Object {
 	  $ObjectID		  13
 	  IsActive		  [0]
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "176"
-	  Extents		  [1334.0, 845.0]
-	  ZoomFactor		  [0.4]
-	  Offset		  [-1218.5350535112025, -988.65674727659541]
-	  SceneRectInView	  [-1218.5350535112025, -988.65674727659541, 3335.0, 2112.5]
+	  LoadSaveID		  "400"
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [1.25]
+	  Offset		  [314.70843086745413, -36.309835760373289]
+	  SceneRectInView	  [314.70843086745413, -36.309835760373289, 1505.6, 652.0]
 	}
 	Object {
 	  $ObjectID		  14
 	  IsActive		  [0]
 	  IsTabbed		  [0]
 	  ViewObjType		  "SimulinkSubsys"
-	  LoadSaveID		  "526"
-	  Extents		  [1334.0, 845.0]
-	  ZoomFactor		  [1.25]
-	  Offset		  [173.42585565476145, 154.56190476190403]
-	  SceneRectInView	  [173.42585565476145, 154.56190476190403, 1067.2, 676.0]
+	  LoadSaveID		  "442"
+	  Extents		  [1882.0, 815.0]
+	  ZoomFactor		  [0.6]
+	  Offset		  [-811.6926953239124, -331.04683026585]
+	  SceneRectInView	  [-811.6926953239124, -331.04683026585, 3136.666666666667, 1358.3333333333335]
 	}
 	Object {
 	  $ObjectID		  15
@@ -345,9 +345,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "Administrator"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Sun Jun 27 22:09:10 2021"
-  RTWModifiedTimeStamp	  546730869
-  ModelVersionFormat	  "8.%<AutoIncrement:9>"
+  LastModifiedDate	  "Mon Jun 28 00:45:21 2021"
+  RTWModifiedTimeStamp	  546741730
+  ModelVersionFormat	  "8.%<AutoIncrement:25>"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
   LibraryLinkDisplay	  "disabled"
@@ -464,7 +464,7 @@ Model {
 	  Description		  ""
 	  Components		  []
 	  StartTime		  "0.0"
-	  StopTime		  "10.0"
+	  StopTime		  "0.05"
 	  AbsTol		  "auto"
 	  AutoScaleAbsTol	  on
 	  FixedStep		  "auto"
@@ -1337,6 +1337,11 @@ Model {
       BusSelectionMode	      off
     }
     Block {
+      BlockType		      Fcn
+      Expr		      "sin(u[1])"
+      SampleTime	      "-1"
+    }
+    Block {
       BlockType		      Gain
       Gain		      "1"
       Multiplication	      "Element-wise(K.*u)"
@@ -1378,14 +1383,6 @@ Model {
       IconShape		      "rectangular"
       AllPortsSameDT	      on
       OutDataTypeStr	      "Inherit: Logical (see Configuration Parameters: Optimization)"
-      SampleTime	      "-1"
-    }
-    Block {
-      BlockType		      MATLABFcn
-      MATLABFcn		      "sin"
-      OutputDimensions	      "-1"
-      OutputSignalType	      "auto"
-      Output1D		      on
       SampleTime	      "-1"
     }
     Block {
@@ -1605,7 +1602,7 @@ Model {
   }
   System {
     Name		    "svpwmR2020a"
-    Location		    [223, 34, 2159, 1090]
+    Location		    [-8, 97, 1928, 1153]
     Open		    on
     PortBlocksUseCompactNotation off
     SetExecutionDomain	    off
@@ -1620,9 +1617,9 @@ Model {
     TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
     TiledPageScale	    1
     ShowPageBoundaries	    off
-    ZoomFactor		    "60"
+    ZoomFactor		    "80"
     ReportName		    "simulink-default.rpt"
-    SIDHighWatermark	    "720"
+    SIDHighWatermark	    "821"
     SimulinkSubDomain	    "Simulink"
     Block {
       BlockType		      Sum
@@ -1783,7 +1780,7 @@ Model {
       Name		      "Current Measurement"
       SID		      "717"
       Ports		      [0, 1, 0, 0, 0, 1, 1]
-      Position		      [1885, 48, 1910, 72]
+      Position		      [1815, 48, 1840, 72]
       ZOrder		      1964
       LibraryVersion	      "1.2843"
       UserDataPersistent      on
@@ -1805,7 +1802,7 @@ Model {
       Name		      "Current Measurement1"
       SID		      "718"
       Ports		      [0, 1, 0, 0, 0, 1, 1]
-      Position		      [1885, 93, 1910, 117]
+      Position		      [1815, 93, 1840, 117]
       ZOrder		      1965
       LibraryVersion	      "1.2843"
       UserDataPersistent      on
@@ -1827,7 +1824,7 @@ Model {
       Name		      "Current Measurement2"
       SID		      "719"
       Ports		      [0, 1, 0, 0, 0, 1, 1]
-      Position		      [1885, 138, 1910, 162]
+      Position		      [1815, 138, 1840, 162]
       ZOrder		      1966
       LibraryVersion	      "1.2843"
       UserDataPersistent      on
@@ -2037,74 +2034,74 @@ Model {
       Name		      "Scope2"
       SID		      "676"
       Ports		      [8]
-      Position		      [1630, -256, 1690, -119]
+      Position		      [1635, -256, 1695, -119]
       ZOrder		      298
       ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
       "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
       "ources','WiredSimulink',true,'DataLoggingVariableName','ScopeData1'),extmgr.Configuration('Visuals','Time Domain"
       "',true,'SerializedDisplays',{struct('MinYLimReal','0.375','MaxYLimReal','6.625','YLabelReal','','MinYLimMag','0."
-      "375','MaxYLimMag','6.625','LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 "
-      "0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.066666666666666"
-      "7;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.83137254901960"
-      "8 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.6509803"
-      "92156863],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Color',[1 1 0.0666666666666667],'LineStyle','"
-      "-','LineWidth',0.75,'Marker','none','Visible','on'),[],[],[],[],[]}},'UserDefinedChannelNames',{{}},'NumLines',1"
-      ",'LineNames',{{'Saturation'}},'ShowContent',true,'Placement',1),struct('MinYLimReal','0.125','MaxYLimReal','8.87"
-      "5','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','LegendVisibility','On','XGrid',true,'YGrid',tr"
-      "ue,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.6862745098039"
-      "22],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.1607843137"
-      "2549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.058823529411"
-      "7647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Color'"
-      ",[0.0745098039215686 0.623529411764706 1],'LineStyle','-','LineWidth',0.75,'Marker','none','Visible','on')}},'Us"
-      "erDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Saturation1'}},'ShowContent',true,'Placement',2),struct("
-      "'MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','Lege"
-      "ndVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.6862745"
-      "09803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.62352941"
-      "1764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.71764705"
-      "8823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabe"
-      "l>','LinePropertiesCache',{{struct('Color',[0.0588235294117647 1 1],'LineStyle','-','LineWidth',0.75,'Marker','n"
-      "one','Visible','on')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/1'}},'ShowContent',true,"
-      "'Placement',3),struct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYL"
-      "imMag','9.00000','LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'Axe"
-      "sTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.07450"
-      "98039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.07450"
-      "98039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863]"
-      ",'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Visible','on','Color',[0.0588235294117647 1 1],'LineSt"
-      "yle','-','LineWidth',0.75,'Marker','none')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/2'"
-      "}},'ShowContent',true,'Placement',4),struct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLi"
-      "mMag','0.00000','MaxYLimMag','9.00000','LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'A"
-      "xesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.06"
-      "66666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.8"
-      "31372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215"
-      "686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}},'NumLi"
-      "nes',1,'LineNames',{{'Demux/3'}},'ShowContent',true,'Placement',5),struct('MinYLimReal','-0.125','MaxYLimReal','"
-      "1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','LegendVisibility','On','XGrid',true,'YGrid"
-      "',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509"
+      "375','MaxYLimMag','6.625','LegendVisibility','On','XGrid',false,'YGrid',false,'PlotMagPhase',false,'AxesColor',["
+      "0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666"
+      "667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019"
+      "608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.65098"
+      "0392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Color',[1 1 0.0666666666666667],'LineStyle'"
+      ",'-','LineWidth',0.75,'Marker','none','Visible','on'),[],[],[],[],[]}},'UserDefinedChannelNames',{{}},'NumLines'"
+      ",1,'LineNames',{{'Saturation'}},'ShowContent',true,'Placement',1),struct('MinYLimReal','0.125','MaxYLimReal','8."
+      "875','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','LegendVisibility','On','XGrid',false,'YGrid'"
+      ",false,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509"
       "803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.160784"
       "31372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.05882352"
-      "94117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDe"
-      "finedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/4'}},'ShowContent',true,'Placement',6),struct('MinYLim"
-      "Real','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','LegendVisibi"
-      "lity','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922"
-      " 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 "
-      "1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 "
-      "0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>','Lin"
-      "ePropertiesCache',{{struct('Color',[1 0.6 0.784313725490196],'LineStyle','-','LineWidth',0.75,'Marker','none','V"
-      "isible','on')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/5'}},'ShowContent',true,'Placem"
-      "ent',7),struct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag',"
-      "'1.125','LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColo"
-      "r',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.07450980392156"
-      "86 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.07450980392156"
-      "86;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title',"
-      "'%<SignalLabel>','LinePropertiesCache',{{struct('Color',[1 0.6 0.784313725490196],'LineStyle','-','LineWidth',0."
-      "75,'Marker','none','Visible','on')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/6'}},'Show"
-      "Content',true,'Placement',8)},'DisplayPropertyDefaults',struct('YLabelReal','','AxesColor',[0 0 0],'ColorOrder',"
-      "[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.3921568627"
-      "45098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745"
-      "098039215686 0.650980392156863],'Title','%<SignalLabel>'),'DisplayLayoutDimensions',[2 4],'DisplayContentCache',"
-      "[]),extmgr.Configuration('Tools','Plot Navigation',true,'OnceAtStop',false,'PreviousZoomMode','ZoomX','PreviousA"
-      "utoscale','XY'),extmgr.Configuration('Tools','Measurements',true,'Version','2020a')),'Version','2020a','Position"
-      "',[5 42 1920 953])"
+      "94117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Co"
+      "lor',[0.0745098039215686 0.623529411764706 1],'LineStyle','-','LineWidth',0.75,'Marker','none','Visible','on')}}"
+      ",'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Saturation1'}},'ShowContent',true,'Placement',2),str"
+      "uct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','"
+      "LegendVisibility','On','XGrid',false,'YGrid',false,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.6"
+      "86274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.62"
+      "3529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.71"
+      "7647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<Sign"
+      "alLabel>','LinePropertiesCache',{{struct('Color',[0.0588235294117647 1 1],'LineStyle','-','LineWidth',0.75,'Mark"
+      "er','none','Visible','on')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/1'}},'ShowContent'"
+      ",true,'Placement',3),struct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000',"
+      "'MaxYLimMag','9.00000','LegendVisibility','On','XGrid',false,'YGrid',false,'PlotMagPhase',false,'AxesColor',[0 0"
+      " 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667"
+      ";0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608"
+      " 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.65098039"
+      "2156863],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Visible','on','Color',[0.0588235294117647 1 1]"
+      ",'LineStyle','-','LineWidth',0.75,'Marker','none')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'"
+      "Demux/2'}},'ShowContent',true,'Placement',4),struct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal',''"
+      ",'MinYLimMag','0.00000','MaxYLimMag','9.00000','LegendVisibility','On','XGrid',false,'YGrid',false,'PlotMagPhase"
+      "',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder'"
+      ",[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862"
+      "745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.074"
+      "5098039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{"
+      "{}},'NumLines',1,'LineNames',{{'Demux/3'}},'ShowContent',true,'Placement',5),struct('MinYLimReal','-0.125','MaxY"
+      "LimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','LegendVisibility','On','XGrid',f"
+      "alse,'YGrid',false,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922"
+      " 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882"
+      "353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 "
+      "1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',"
+      "{{}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/4'}},'ShowContent',true,'Placement',6),str"
+      "uct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','9.00000','"
+      "LegendVisibility','On','XGrid',false,'YGrid',false,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.6"
+      "86274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.62"
+      "3529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.71"
+      "7647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<Sign"
+      "alLabel>','LinePropertiesCache',{{struct('Color',[1 0.6 0.784313725490196],'LineStyle','-','LineWidth',0.75,'Mar"
+      "ker','none','Visible','on')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'Demux/5'}},'ShowContent"
+      "',true,'Placement',7),struct('MinYLimReal','-0.125','MaxYLimReal','1.125','YLabelReal','','MinYLimMag','0.00000'"
+      ",'MaxYLimMag','1.125','LegendVisibility','On','XGrid',false,'YGrid',false,'PlotMagPhase',false,'AxesColor',[0 0 "
+      "0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;"
+      "0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 "
+      "0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392"
+      "156863],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Color',[1 0.6 0.784313725490196],'LineStyle','-"
+      "','LineWidth',0.75,'Marker','none','Visible','on')}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'"
+      "Demux/6'}},'ShowContent',true,'Placement',8)},'DisplayPropertyDefaults',struct('YLabelReal','','AxesColor',[0 0 "
+      "0],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372"
+      "549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117"
+      "647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>'),'DisplayLayoutDimensions',[2 4],'Displ"
+      "ayContentCache',[]),extmgr.Configuration('Tools','Plot Navigation',true,'OnceAtStop',false,'PreviousZoomMode','Z"
+      "oomX','PreviousAutoscale','XY'),extmgr.Configuration('Tools','Measurements',true,'Version','2020a')),'Version','"
+      "2020a','Position',[5 42 1920 953])"
       NumInputPorts	      "8"
       Floating		      off
     }
@@ -2113,7 +2110,7 @@ Model {
       Name		      "Scope4"
       SID		      "685"
       Ports		      [3]
-      Position		      [1995, 70, 2040, 130]
+      Position		      [1925, 70, 1970, 130]
       ZOrder		      1111
       ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
       "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
@@ -2144,7 +2141,7 @@ Model {
       Name		      "Series RLC Branch"
       SID		      "698"
       Ports		      [0, 0, 0, 0, 0, 1, 1]
-      Position		      [1635, 86, 1715, 124]
+      Position		      [1605, 86, 1685, 124]
       ZOrder		      1945
       LibraryVersion	      "1.2843"
       SourceBlock	      "powerlib/Elements/Series RLC Branch"
@@ -2167,7 +2164,7 @@ Model {
       Name		      "Series RLC Branch1"
       SID		      "699"
       Ports		      [0, 0, 0, 0, 0, 1, 1]
-      Position		      [1635, 131, 1715, 169]
+      Position		      [1605, 131, 1685, 169]
       ZOrder		      1946
       LibraryVersion	      "1.2843"
       SourceBlock	      "powerlib/Elements/Series RLC Branch"
@@ -2190,7 +2187,7 @@ Model {
       Name		      "Series RLC Branch2"
       SID		      "700"
       Ports		      [0, 0, 0, 0, 0, 1, 1]
-      Position		      [1635, 41, 1715, 79]
+      Position		      [1605, 41, 1685, 79]
       ZOrder		      1947
       LibraryVersion	      "1.2843"
       SourceBlock	      "powerlib/Elements/Series RLC Branch"
@@ -2213,7 +2210,7 @@ Model {
       Name		      "Series RLC Branch3"
       SID		      "707"
       Ports		      [0, 0, 0, 0, 0, 1, 1]
-      Position		      [1760, 86, 1840, 124]
+      Position		      [1710, 86, 1790, 124]
       ZOrder		      1954
       LibraryVersion	      "1.2843"
       SourceBlock	      "powerlib/Elements/Series RLC Branch"
@@ -2236,7 +2233,7 @@ Model {
       Name		      "Series RLC Branch4"
       SID		      "708"
       Ports		      [0, 0, 0, 0, 0, 1, 1]
-      Position		      [1760, 131, 1840, 169]
+      Position		      [1710, 131, 1790, 169]
       ZOrder		      1955
       LibraryVersion	      "1.2843"
       SourceBlock	      "powerlib/Elements/Series RLC Branch"
@@ -2259,7 +2256,7 @@ Model {
       Name		      "Series RLC Branch5"
       SID		      "709"
       Ports		      [0, 0, 0, 0, 0, 1, 1]
-      Position		      [1760, 41, 1840, 79]
+      Position		      [1710, 41, 1790, 79]
       ZOrder		      1956
       LibraryVersion	      "1.2843"
       SourceBlock	      "powerlib/Elements/Series RLC Branch"
@@ -2300,7 +2297,7 @@ Model {
       ContentPreviewEnabled   on
       System {
 	Name			"Subsystem1"
-	Location		[-8, -8, 1928, 1048]
+	Location		[-8, 97, 1928, 1153]
 	Open			off
 	PortBlocksUseCompactNotation off
 	SetExecutionDomain	off
@@ -2315,7 +2312,7 @@ Model {
 	TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
 	TiledPageScale		1
 	ShowPageBoundaries	off
-	ZoomFactor		"200"
+	ZoomFactor		"193"
 	SimulinkSubDomain	"Simulink"
 	Block {
 	  BlockType		  Inport
@@ -2359,8 +2356,8 @@ Model {
 	  RequestExecContextInheritance	off
 	  System {
 	    Name		    "duty-cycles"
-	    Location		    [-8, -8, 1928, 1048]
-	    Open		    on
+	    Location		    [-8, 97, 1928, 1153]
+	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
 	    ExecutionDomainType	    "Deduce"
@@ -2754,7 +2751,7 @@ Model {
       ContentPreviewEnabled   on
       System {
 	Name			"Subsystem7"
-	Location		[-8, -8, 1928, 1048]
+	Location		[-8, 97, 1928, 1153]
 	Open			off
 	PortBlocksUseCompactNotation off
 	SetExecutionDomain	off
@@ -2769,7 +2766,7 @@ Model {
 	TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
 	TiledPageScale		1
 	ShowPageBoundaries	off
-	ZoomFactor		"150"
+	ZoomFactor		"125"
 	SimulinkSubDomain	"Simulink"
 	Block {
 	  BlockType		  Inport
@@ -2816,7 +2813,7 @@ Model {
 	  ContentPreviewEnabled	  on
 	  System {
 	    Name		    "Subsystem"
-	    Location		    [39, 65, 1427, 1121]
+	    Location		    [-8, 97, 1928, 1153]
 	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
@@ -2831,7 +2828,7 @@ Model {
 	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
 	    TiledPageScale	    1
 	    ShowPageBoundaries	    off
-	    ZoomFactor		    "40"
+	    ZoomFactor		    "80"
 	    SimulinkSubDomain	    "Simulink"
 	    Block {
 	      BlockType		      Inport
@@ -2889,6 +2886,62 @@ Model {
 	      SaturateOnIntegerOverflow	off
 	    }
 	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn"
+	      SID		      "723"
+	      Position		      [240, -25, 300, 5]
+	      ZOrder		      4732
+	      Expr		      "0.5*u(3)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn1"
+	      SID		      "724"
+	      Position		      [225, 79, 315, 111]
+	      ZOrder		      4733
+	      Expr		      "0.5*u(3)+0.5*u(1)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn2"
+	      SID		      "725"
+	      Position		      [200, 196, 345, 224]
+	      ZOrder		      4734
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn3"
+	      SID		      "726"
+	      Position		      [195, 311, 345, 339]
+	      ZOrder		      4735
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn4"
+	      SID		      "727"
+	      Position		      [195, 426, 345, 454]
+	      ZOrder		      4736
+	      Expr		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn5"
+	      SID		      "728"
+	      Position		      [195, 541, 345, 569]
+	      ZOrder		      4737
+	      Expr		      "0.5*u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn6"
+	      SID		      "729"
+	      Position		      [195, 656, 345, 684]
+	      ZOrder		      4738
+	      Expr		      "u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
 	      BlockType		      Gain
 	      Name		      "Gain"
 	      SID		      "263"
@@ -2918,69 +2971,6 @@ Model {
 	      Position		      [875, 285, 905, 315]
 	      ZOrder		      334
 	      Gain		      "7"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction"
-	      SID		      "190"
-	      Ports		      [1, 1]
-	      Position		      [235, -25, 305, 5]
-	      ZOrder		      194
-	      MATLABFcn		      "0.5*u(3)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction1"
-	      SID		      "223"
-	      Ports		      [1, 1]
-	      Position		      [235, 195, 305, 225]
-	      ZOrder		      297
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction2"
-	      SID		      "224"
-	      Ports		      [1, 1]
-	      Position		      [235, 310, 305, 340]
-	      ZOrder		      298
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction3"
-	      SID		      "225"
-	      Ports		      [1, 1]
-	      Position		      [235, 425, 305, 455]
-	      ZOrder		      299
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction4"
-	      SID		      "226"
-	      Ports		      [1, 1]
-	      Position		      [235, 540, 305, 570]
-	      ZOrder		      300
-	      MATLABFcn		      "0.5*u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction5"
-	      SID		      "227"
-	      Ports		      [1, 1]
-	      Position		      [235, 655, 305, 685]
-	      ZOrder		      301
-	      MATLABFcn		      "u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction6"
-	      SID		      "228"
-	      Ports		      [1, 1]
-	      Position		      [235, 80, 305, 110]
-	      ZOrder		      302
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)"
 	    }
 	    Block {
 	      BlockType		      Logic
@@ -3245,69 +3235,69 @@ Model {
 	      ZOrder		      9
 	      SrcBlock		      "Txy-07"
 	      SrcPort		      1
-	      Points		      [41, 0]
+	      Points		      [35, 0]
+	      Branch {
+		ZOrder			192
+		DstBlock		"Fcn"
+		DstPort			1
+	      }
 	      Branch {
 		ZOrder			12
 		Points			[0, 105]
 		Branch {
+		  ZOrder		  191
+		  DstBlock		  "Fcn1"
+		  DstPort		  1
+		}
+		Branch {
 		  ZOrder		  14
 		  Points		  [0, 115]
 		  Branch {
-		    ZOrder		    16
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    18
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    21
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    23
-		    Points		    [0, 115]
-		    DstBlock		    "Interpreted MATLAB\nFunction5"
+		    ZOrder		    190
+		    DstBlock		    "Fcn2"
 		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    22
-		    DstBlock		    "Interpreted MATLAB\nFunction4"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    20
-		    DstBlock		    "Interpreted MATLAB\nFunction3"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    17
-		    DstBlock		    "Interpreted MATLAB\nFunction2"
-		    DstPort		    1
-		    }
 		  }
 		  Branch {
-		    ZOrder		    15
-		    DstBlock		    "Interpreted MATLAB\nFunction1"
+		    ZOrder		    179
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    184
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    189
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    200
+		    Points		    [0, 115]
+		    DstBlock		    "Fcn6"
 		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    195
+		    DstBlock		    "Fcn5"
+		    DstPort		    1
+		    }
+		    }
+		    Branch {
+		    ZOrder		    187
+		    DstBlock		    "Fcn4"
+		    DstPort		    1
+		    }
+		    }
+		    Branch {
+		    ZOrder		    182
+		    DstBlock		    "Fcn3"
+		    DstPort		    1
+		    }
 		  }
 		}
-		Branch {
-		  ZOrder		  13
-		  DstBlock		  "Interpreted MATLAB\nFunction6"
-		  DstPort		  1
-		}
-	      }
-	      Branch {
-		ZOrder			11
-		DstBlock		"Interpreted MATLAB\nFunction"
-		DstPort			1
 	      }
 	    }
 	    Line {
-	      ZOrder		      25
-	      SrcBlock		      "Interpreted MATLAB\nFunction"
+	      ZOrder		      172
+	      SrcBlock		      "Fcn"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [89, 0]
 	      Branch {
 		ZOrder			97
 		Points			[0, 60]
@@ -3321,10 +3311,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      27
-	      SrcBlock		      "Interpreted MATLAB\nFunction6"
+	      ZOrder		      175
+	      SrcBlock		      "Fcn1"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [74, 0]
 	      Branch {
 		ZOrder			95
 		Points			[0, 70]
@@ -3338,10 +3328,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      28
-	      SrcBlock		      "Interpreted MATLAB\nFunction1"
+	      ZOrder		      177
+	      SrcBlock		      "Fcn2"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [44, 0]
 	      Branch {
 		ZOrder			93
 		Points			[0, 70]
@@ -3355,10 +3345,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      29
-	      SrcBlock		      "Interpreted MATLAB\nFunction2"
+	      ZOrder		      183
+	      SrcBlock		      "Fcn3"
 	      SrcPort		      1
-	      Points		      [85, 0]
+	      Points		      [45, 0]
 	      Branch {
 		ZOrder			91
 		Points			[0, 70]
@@ -3372,10 +3362,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      30
-	      SrcBlock		      "Interpreted MATLAB\nFunction3"
+	      ZOrder		      188
+	      SrcBlock		      "Fcn4"
 	      SrcPort		      1
-	      Points		      [85, 0]
+	      Points		      [45, 0]
 	      Branch {
 		ZOrder			86
 		Points			[0, 70]
@@ -3389,17 +3379,17 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      31
-	      SrcBlock		      "Interpreted MATLAB\nFunction5"
+	      ZOrder		      201
+	      SrcBlock		      "Fcn6"
 	      SrcPort		      1
 	      DstBlock		      "Relational\nOperator6"
 	      DstPort		      2
 	    }
 	    Line {
-	      ZOrder		      32
-	      SrcBlock		      "Interpreted MATLAB\nFunction4"
+	      ZOrder		      197
+	      SrcBlock		      "Fcn5"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [44, 0]
 	      Branch {
 		ZOrder			84
 		Points			[0, 70]
@@ -3946,8 +3936,8 @@ Model {
 	  ContentPreviewEnabled	  on
 	  System {
 	    Name		    "Subsystem2"
-	    Location		    [-8, -8, 1928, 1048]
-	    Open		    on
+	    Location		    [-8, 97, 1928, 1153]
+	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
 	    ExecutionDomainType	    "Deduce"
@@ -3961,20 +3951,20 @@ Model {
 	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
 	    TiledPageScale	    1
 	    ShowPageBoundaries	    off
-	    ZoomFactor		    "100"
+	    ZoomFactor		    "125"
 	    SimulinkSubDomain	    "Simulink"
 	    Block {
 	      BlockType		      Inport
 	      Name		      "Txy-07"
 	      SID		      "401"
-	      Position		      [110, -17, 140, -3]
+	      Position		      [25, -17, 55, -3]
 	      ZOrder		      293
 	    }
 	    Block {
 	      BlockType		      Inport
 	      Name		      "ramp"
 	      SID		      "402"
-	      Position		      [110, -82, 140, -68]
+	      Position		      [25, -82, 55, -68]
 	      ZOrder		      303
 	      Port		      "2"
 	    }
@@ -4019,12 +4009,68 @@ Model {
 	      SaturateOnIntegerOverflow	off
 	    }
 	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn"
+	      SID		      "730"
+	      Position		      [190, -25, 250, 5]
+	      ZOrder		      4732
+	      Expr		      "0.5*u(3)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn1"
+	      SID		      "731"
+	      Position		      [180, 79, 270, 111]
+	      ZOrder		      4733
+	      Expr		      "0.5*u(3)+0.5*u(1)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn2"
+	      SID		      "732"
+	      Position		      [150, 196, 295, 224]
+	      ZOrder		      4734
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn3"
+	      SID		      "733"
+	      Position		      [150, 311, 300, 339]
+	      ZOrder		      4735
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn4"
+	      SID		      "734"
+	      Position		      [150, 426, 300, 454]
+	      ZOrder		      4736
+	      Expr		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn5"
+	      SID		      "735"
+	      Position		      [150, 541, 300, 569]
+	      ZOrder		      4737
+	      Expr		      "0.5*u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn6"
+	      SID		      "736"
+	      Position		      [150, 656, 300, 684]
+	      ZOrder		      4738
+	      Expr		      "u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
 	      BlockType		      Gain
 	      Name		      "Gain"
 	      SID		      "407"
 	      Position		      [875, -20, 905, 10]
 	      ZOrder		      331
-	      Gain		      "8"
+	      Gain		      "7"
 	    }
 	    Block {
 	      BlockType		      Gain
@@ -4048,70 +4094,7 @@ Model {
 	      SID		      "410"
 	      Position		      [875, 285, 905, 315]
 	      ZOrder		      334
-	      Gain		      "7"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction"
-	      SID		      "411"
-	      Ports		      [1, 1]
-	      Position		      [235, -25, 305, 5]
-	      ZOrder		      194
-	      MATLABFcn		      "0.5*u(3)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction1"
-	      SID		      "412"
-	      Ports		      [1, 1]
-	      Position		      [235, 195, 305, 225]
-	      ZOrder		      297
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction2"
-	      SID		      "413"
-	      Ports		      [1, 1]
-	      Position		      [235, 310, 305, 340]
-	      ZOrder		      298
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction3"
-	      SID		      "414"
-	      Ports		      [1, 1]
-	      Position		      [235, 425, 305, 455]
-	      ZOrder		      299
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction4"
-	      SID		      "415"
-	      Ports		      [1, 1]
-	      Position		      [235, 540, 305, 570]
-	      ZOrder		      300
-	      MATLABFcn		      "0.5*u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction5"
-	      SID		      "416"
-	      Ports		      [1, 1]
-	      Position		      [235, 655, 305, 685]
-	      ZOrder		      301
-	      MATLABFcn		      "u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction6"
-	      SID		      "417"
-	      Ports		      [1, 1]
-	      Position		      [235, 80, 305, 110]
-	      ZOrder		      302
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)"
+	      Gain		      "8"
 	    }
 	    Block {
 	      BlockType		      Logic
@@ -4516,7 +4499,7 @@ Model {
 	      ZOrder		      20
 	      SrcBlock		      "ramp"
 	      SrcPort		      1
-	      Points		      [268, 0; 0, 50]
+	      Points		      [353, 0; 0, 50]
 	      Branch {
 		ZOrder			21
 		DstBlock		"Relational\nOperator"
@@ -4725,10 +4708,10 @@ Model {
 	      DstPort		      1
 	    }
 	    Line {
-	      ZOrder		      57
-	      SrcBlock		      "Interpreted MATLAB\nFunction4"
+	      ZOrder		      93
+	      SrcBlock		      "Fcn5"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [89, 0]
 	      Branch {
 		ZOrder			58
 		DstBlock		"Relational\nOperator5"
@@ -4742,17 +4725,17 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      60
-	      SrcBlock		      "Interpreted MATLAB\nFunction5"
+	      ZOrder		      114
+	      SrcBlock		      "Fcn6"
 	      SrcPort		      1
 	      DstBlock		      "Relational\nOperator6"
 	      DstPort		      2
 	    }
 	    Line {
-	      ZOrder		      61
-	      SrcBlock		      "Interpreted MATLAB\nFunction3"
+	      ZOrder		      92
+	      SrcBlock		      "Fcn4"
 	      SrcPort		      1
-	      Points		      [85, 0]
+	      Points		      [90, 0]
 	      Branch {
 		ZOrder			62
 		DstBlock		"Relational\nOperator4"
@@ -4766,10 +4749,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      64
-	      SrcBlock		      "Interpreted MATLAB\nFunction2"
+	      ZOrder		      91
+	      SrcBlock		      "Fcn3"
 	      SrcPort		      1
-	      Points		      [85, 0]
+	      Points		      [90, 0]
 	      Branch {
 		ZOrder			65
 		DstBlock		"Relational\nOperator3"
@@ -4783,10 +4766,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      67
-	      SrcBlock		      "Interpreted MATLAB\nFunction1"
+	      ZOrder		      104
+	      SrcBlock		      "Fcn2"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [94, 0]
 	      Branch {
 		ZOrder			68
 		DstBlock		"Relational\nOperator2"
@@ -4800,10 +4783,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      70
-	      SrcBlock		      "Interpreted MATLAB\nFunction6"
+	      ZOrder		      102
+	      SrcBlock		      "Fcn1"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [119, 0]
 	      Branch {
 		ZOrder			71
 		DstBlock		"Relational\nOperator1"
@@ -4817,10 +4800,10 @@ Model {
 	      }
 	    }
 	    Line {
-	      ZOrder		      73
-	      SrcBlock		      "Interpreted MATLAB\nFunction"
+	      ZOrder		      99
+	      SrcBlock		      "Fcn"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [139, 0]
 	      Branch {
 		ZOrder			74
 		DstBlock		"Relational\nOperator"
@@ -4839,59 +4822,59 @@ Model {
 	      SrcPort		      1
 	      Points		      [41, 0]
 	      Branch {
-		ZOrder			77
-		DstBlock		"Interpreted MATLAB\nFunction"
+		ZOrder			94
+		DstBlock		"Fcn"
 		DstPort			1
 	      }
 	      Branch {
 		ZOrder			78
 		Points			[0, 105]
 		Branch {
-		  ZOrder		  79
-		  DstBlock		  "Interpreted MATLAB\nFunction6"
-		  DstPort		  1
-		}
-		Branch {
-		  ZOrder		  80
+		  ZOrder		  103
 		  Points		  [0, 115]
 		  Branch {
-		    ZOrder		    81
-		    DstBlock		    "Interpreted MATLAB\nFunction1"
+		    ZOrder		    97
+		    DstBlock		    "Fcn2"
 		    DstPort		    1
 		  }
 		  Branch {
 		    ZOrder		    82
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    83
-		    DstBlock		    "Interpreted MATLAB\nFunction2"
+		    ZOrder		    105
+		    DstBlock		    "Fcn3"
 		    DstPort		    1
 		    }
 		    Branch {
 		    ZOrder		    84
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    85
-		    DstBlock		    "Interpreted MATLAB\nFunction3"
+		    ZOrder		    107
+		    DstBlock		    "Fcn4"
 		    DstPort		    1
 		    }
 		    Branch {
 		    ZOrder		    86
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    87
-		    DstBlock		    "Interpreted MATLAB\nFunction4"
+		    ZOrder		    113
+		    Points		    [0, 115]
+		    DstBlock		    "Fcn6"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    88
-		    Points		    [0, 115]
-		    DstBlock		    "Interpreted MATLAB\nFunction5"
+		    ZOrder		    111
+		    DstBlock		    "Fcn5"
 		    DstPort		    1
 		    }
 		    }
 		    }
 		  }
+		}
+		Branch {
+		  ZOrder		  95
+		  DstBlock		  "Fcn1"
+		  DstPort		  1
 		}
 	      }
 	    }
@@ -4979,7 +4962,7 @@ Model {
 	  ContentPreviewEnabled	  on
 	  System {
 	    Name		    "Subsystem3"
-	    Location		    [39, 65, 1427, 1121]
+	    Location		    [346, 55, 2282, 1111]
 	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
@@ -4994,21 +4977,21 @@ Model {
 	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
 	    TiledPageScale	    1
 	    ShowPageBoundaries	    off
-	    ZoomFactor		    "80"
+	    ZoomFactor		    "60"
 	    SimulinkSubDomain	    "Simulink"
 	    Block {
 	      BlockType		      Inport
 	      Name		      "Txy-07"
-	      SID		      "443"
-	      Position		      [110, -17, 140, -3]
-	      ZOrder		      293
+	      SID		      "737"
+	      Position		      [30, -17, 60, -3]
+	      ZOrder		      4739
 	    }
 	    Block {
 	      BlockType		      Inport
 	      Name		      "ramp"
-	      SID		      "444"
-	      Position		      [110, -82, 140, -68]
-	      ZOrder		      303
+	      SID		      "738"
+	      Position		      [30, -82, 60, -68]
+	      ZOrder		      4740
 	      Port		      "2"
 	    }
 	    Block {
@@ -5052,6 +5035,62 @@ Model {
 	      SaturateOnIntegerOverflow	off
 	    }
 	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn"
+	      SID		      "739"
+	      Position		      [195, -25, 255, 5]
+	      ZOrder		      4741
+	      Expr		      "0.5*u(3)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn1"
+	      SID		      "740"
+	      Position		      [185, 79, 275, 111]
+	      ZOrder		      4742
+	      Expr		      "0.5*u(3)+0.5*u(1)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn2"
+	      SID		      "741"
+	      Position		      [155, 196, 300, 224]
+	      ZOrder		      4743
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn3"
+	      SID		      "742"
+	      Position		      [155, 311, 305, 339]
+	      ZOrder		      4744
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn4"
+	      SID		      "743"
+	      Position		      [155, 426, 305, 454]
+	      ZOrder		      4745
+	      Expr		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn5"
+	      SID		      "744"
+	      Position		      [155, 541, 305, 569]
+	      ZOrder		      4746
+	      Expr		      "0.5*u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn6"
+	      SID		      "745"
+	      Position		      [155, 656, 305, 684]
+	      ZOrder		      4747
+	      Expr		      "u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
 	      BlockType		      Gain
 	      Name		      "Gain"
 	      SID		      "449"
@@ -5082,69 +5121,6 @@ Model {
 	      Position		      [875, 285, 905, 315]
 	      ZOrder		      334
 	      Gain		      "7"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction"
-	      SID		      "453"
-	      Ports		      [1, 1]
-	      Position		      [235, -25, 305, 5]
-	      ZOrder		      194
-	      MATLABFcn		      "0.5*u(3)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction1"
-	      SID		      "454"
-	      Ports		      [1, 1]
-	      Position		      [235, 195, 305, 225]
-	      ZOrder		      297
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction2"
-	      SID		      "455"
-	      Ports		      [1, 1]
-	      Position		      [235, 310, 305, 340]
-	      ZOrder		      298
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction3"
-	      SID		      "456"
-	      Ports		      [1, 1]
-	      Position		      [235, 425, 305, 455]
-	      ZOrder		      299
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction4"
-	      SID		      "457"
-	      Ports		      [1, 1]
-	      Position		      [235, 540, 305, 570]
-	      ZOrder		      300
-	      MATLABFcn		      "0.5*u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction5"
-	      SID		      "458"
-	      Ports		      [1, 1]
-	      Position		      [235, 655, 305, 685]
-	      ZOrder		      301
-	      MATLABFcn		      "u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction6"
-	      SID		      "459"
-	      Ports		      [1, 1]
-	      Position		      [235, 80, 305, 110]
-	      ZOrder		      302
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)"
 	    }
 	    Block {
 	      BlockType		      Logic
@@ -5406,177 +5382,6 @@ Model {
 	      ZOrder		      341
 	    }
 	    Line {
-	      ZOrder		      1
-	      SrcBlock		      "Txy-07"
-	      SrcPort		      1
-	      Points		      [41, 0]
-	      Branch {
-		ZOrder			2
-		Points			[0, 105]
-		Branch {
-		  ZOrder		  3
-		  Points		  [0, 115]
-		  Branch {
-		    ZOrder		    4
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    5
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    6
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    7
-		    Points		    [0, 115]
-		    DstBlock		    "Interpreted MATLAB\nFunction5"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    8
-		    DstBlock		    "Interpreted MATLAB\nFunction4"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    9
-		    DstBlock		    "Interpreted MATLAB\nFunction3"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    10
-		    DstBlock		    "Interpreted MATLAB\nFunction2"
-		    DstPort		    1
-		    }
-		  }
-		  Branch {
-		    ZOrder		    11
-		    DstBlock		    "Interpreted MATLAB\nFunction1"
-		    DstPort		    1
-		  }
-		}
-		Branch {
-		  ZOrder		  12
-		  DstBlock		  "Interpreted MATLAB\nFunction6"
-		  DstPort		  1
-		}
-	      }
-	      Branch {
-		ZOrder			13
-		DstBlock		"Interpreted MATLAB\nFunction"
-		DstPort			1
-	      }
-	    }
-	    Line {
-	      ZOrder		      14
-	      SrcBlock		      "Interpreted MATLAB\nFunction"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			15
-		Points			[0, 60]
-		DstBlock		"Relational\nOperator12"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			16
-		DstBlock		"Relational\nOperator"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      17
-	      SrcBlock		      "Interpreted MATLAB\nFunction6"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			18
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator11"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			19
-		DstBlock		"Relational\nOperator1"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      20
-	      SrcBlock		      "Interpreted MATLAB\nFunction1"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			21
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator10"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			22
-		DstBlock		"Relational\nOperator2"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      23
-	      SrcBlock		      "Interpreted MATLAB\nFunction2"
-	      SrcPort		      1
-	      Points		      [85, 0]
-	      Branch {
-		ZOrder			24
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator9"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			25
-		DstBlock		"Relational\nOperator3"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      26
-	      SrcBlock		      "Interpreted MATLAB\nFunction3"
-	      SrcPort		      1
-	      Points		      [85, 0]
-	      Branch {
-		ZOrder			27
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator8"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			28
-		DstBlock		"Relational\nOperator4"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      29
-	      SrcBlock		      "Interpreted MATLAB\nFunction5"
-	      SrcPort		      1
-	      DstBlock		      "Relational\nOperator6"
-	      DstPort		      2
-	    }
-	    Line {
-	      ZOrder		      30
-	      SrcBlock		      "Interpreted MATLAB\nFunction4"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			31
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator7"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			32
-		DstBlock		"Relational\nOperator5"
-		DstPort			2
-	      }
-	    }
-	    Line {
 	      ZOrder		      33
 	      SrcBlock		      "Relational\nOperator7"
 	      SrcPort		      1
@@ -5671,122 +5476,6 @@ Model {
 	      Points		      [23, 0; 0, -15]
 	      DstBlock		      "Logical\nOperator1"
 	      DstPort		      2
-	    }
-	    Line {
-	      ZOrder		      45
-	      SrcBlock		      "ramp"
-	      SrcPort		      1
-	      Points		      [268, 0; 0, 50]
-	      Branch {
-		ZOrder			46
-		Points			[0, 60]
-		Branch {
-		  ZOrder		  47
-		  DstBlock		  "Relational\nOperator12"
-		  DstPort		  1
-		}
-		Branch {
-		  ZOrder		  48
-		  Points		  [0, 45]
-		  Branch {
-		    ZOrder		    49
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    50
-		    DstBlock		    "Relational\nOperator11"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    51
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    52
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    53
-		    DstBlock		    "Relational\nOperator10"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    54
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    55
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    56
-		    DstBlock		    "Relational\nOperator9"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    57
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    58
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    59
-		    DstBlock		    "Relational\nOperator8"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    60
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    61
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    62
-		    DstBlock		    "Relational\nOperator7"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    63
-		    Points		    [0, 45]
-		    DstBlock		    "Relational\nOperator6"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    64
-		    DstBlock		    "Relational\nOperator5"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    65
-		    DstBlock		    "Relational\nOperator4"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    66
-		    DstBlock		    "Relational\nOperator3"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    67
-		    DstBlock		    "Relational\nOperator2"
-		    DstPort		    1
-		    }
-		    }
-		  }
-		  Branch {
-		    ZOrder		    68
-		    DstBlock		    "Relational\nOperator1"
-		    DstPort		    1
-		  }
-		}
-	      }
-	      Branch {
-		ZOrder			69
-		DstBlock		"Relational\nOperator"
-		DstPort			1
-	      }
 	    }
 	    Line {
 	      ZOrder		      70
@@ -5928,6 +5617,293 @@ Model {
 	      DstBlock		      "III"
 	      DstPort		      1
 	    }
+	    Line {
+	      ZOrder		      91
+	      SrcBlock		      "Fcn1"
+	      SrcPort		      1
+	      Points		      [119, 0]
+	      Branch {
+		ZOrder			171
+		DstBlock		"Relational\nOperator1"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			155
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator11"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      94
+	      SrcBlock		      "Fcn3"
+	      SrcPort		      1
+	      Points		      [90, 0]
+	      Branch {
+		ZOrder			151
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator9"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			150
+		DstBlock		"Relational\nOperator3"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      119
+	      SrcBlock		      "ramp"
+	      SrcPort		      1
+	      Points		      [353, 0; 0, 50]
+	      Branch {
+		ZOrder			147
+		DstBlock		"Relational\nOperator"
+		DstPort			1
+	      }
+	      Branch {
+		ZOrder			117
+		Points			[0, 60]
+		Branch {
+		  ZOrder		  158
+		  DstBlock		  "Relational\nOperator12"
+		  DstPort		  1
+		}
+		Branch {
+		  ZOrder		  116
+		  Points		  [0, 45]
+		  Branch {
+		    ZOrder		    159
+		    DstBlock		    "Relational\nOperator1"
+		    DstPort		    1
+		  }
+		  Branch {
+		    ZOrder		    114
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    161
+		    DstBlock		    "Relational\nOperator11"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    113
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    160
+		    DstBlock		    "Relational\nOperator2"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    111
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    162
+		    DstBlock		    "Relational\nOperator10"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    110
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    163
+		    DstBlock		    "Relational\nOperator3"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    108
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    164
+		    DstBlock		    "Relational\nOperator9"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    107
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    165
+		    DstBlock		    "Relational\nOperator4"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    105
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    166
+		    DstBlock		    "Relational\nOperator8"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    104
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    168
+		    DstBlock		    "Relational\nOperator5"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    102
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    169
+		    DstBlock		    "Relational\nOperator7"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    167
+		    Points		    [0, 45]
+		    DstBlock		    "Relational\nOperator6"
+		    DstPort		    1
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		  }
+		}
+	      }
+	    }
+	    Line {
+	      ZOrder		      153
+	      SrcBlock		      "Fcn6"
+	      SrcPort		      1
+	      DstBlock		      "Relational\nOperator6"
+	      DstPort		      2
+	    }
+	    Line {
+	      ZOrder		      133
+	      SrcBlock		      "Txy-07"
+	      SrcPort		      1
+	      Points		      [41, 0]
+	      Branch {
+		ZOrder			132
+		DstBlock		"Fcn"
+		DstPort			1
+	      }
+	      Branch {
+		ZOrder			131
+		Points			[0, 105]
+		Branch {
+		  ZOrder		  130
+		  Points		  [0, 115]
+		  Branch {
+		    ZOrder		    129
+		    DstBlock		    "Fcn2"
+		    DstPort		    1
+		  }
+		  Branch {
+		    ZOrder		    128
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    127
+		    DstBlock		    "Fcn3"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    126
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    125
+		    DstBlock		    "Fcn4"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    124
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    123
+		    Points		    [0, 115]
+		    DstBlock		    "Fcn6"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    122
+		    DstBlock		    "Fcn5"
+		    DstPort		    1
+		    }
+		    }
+		    }
+		  }
+		}
+		Branch {
+		  ZOrder		  121
+		  DstBlock		  "Fcn1"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Line {
+	      ZOrder		      136
+	      SrcBlock		      "Fcn2"
+	      SrcPort		      1
+	      Points		      [94, 0]
+	      Branch {
+		ZOrder			157
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator10"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			156
+		DstBlock		"Relational\nOperator2"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      139
+	      SrcBlock		      "Fcn5"
+	      SrcPort		      1
+	      Points		      [89, 0]
+	      Branch {
+		ZOrder			149
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator7"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			148
+		DstBlock		"Relational\nOperator5"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      142
+	      SrcBlock		      "Fcn4"
+	      SrcPort		      1
+	      Points		      [90, 0]
+	      Branch {
+		ZOrder			152
+		DstBlock		"Relational\nOperator4"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			146
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator8"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      145
+	      SrcBlock		      "Fcn"
+	      SrcPort		      1
+	      Points		      [139, 0]
+	      Branch {
+		ZOrder			170
+		Points			[0, 60]
+		DstBlock		"Relational\nOperator12"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			154
+		DstBlock		"Relational\nOperator"
+		DstPort			2
+	      }
+	    }
 	    Annotation {
 	      SID		      "656"
 	      Name		      "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">"
@@ -6012,7 +5988,7 @@ Model {
 	  ContentPreviewEnabled	  on
 	  System {
 	    Name		    "Subsystem4"
-	    Location		    [-8, -8, 1928, 1048]
+	    Location		    [-8, 97, 1928, 1153]
 	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
@@ -6027,21 +6003,21 @@ Model {
 	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
 	    TiledPageScale	    1
 	    ShowPageBoundaries	    off
-	    ZoomFactor		    "80"
+	    ZoomFactor		    "150"
 	    SimulinkSubDomain	    "Simulink"
 	    Block {
 	      BlockType		      Inport
 	      Name		      "Txy-07"
-	      SID		      "485"
-	      Position		      [110, -17, 140, -3]
-	      ZOrder		      293
+	      SID		      "746"
+	      Position		      [25, -17, 55, -3]
+	      ZOrder		      4739
 	    }
 	    Block {
 	      BlockType		      Inport
 	      Name		      "ramp"
-	      SID		      "486"
-	      Position		      [110, -82, 140, -68]
-	      ZOrder		      303
+	      SID		      "747"
+	      Position		      [25, -82, 55, -68]
+	      ZOrder		      4740
 	      Port		      "2"
 	    }
 	    Block {
@@ -6085,12 +6061,68 @@ Model {
 	      SaturateOnIntegerOverflow	off
 	    }
 	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn"
+	      SID		      "748"
+	      Position		      [190, -25, 250, 5]
+	      ZOrder		      4741
+	      Expr		      "0.5*u(3)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn1"
+	      SID		      "749"
+	      Position		      [180, 79, 270, 111]
+	      ZOrder		      4742
+	      Expr		      "0.5*u(3)+0.5*u(1)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn2"
+	      SID		      "750"
+	      Position		      [150, 196, 295, 224]
+	      ZOrder		      4743
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn3"
+	      SID		      "751"
+	      Position		      [150, 311, 300, 339]
+	      ZOrder		      4744
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn4"
+	      SID		      "752"
+	      Position		      [150, 426, 300, 454]
+	      ZOrder		      4745
+	      Expr		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn5"
+	      SID		      "753"
+	      Position		      [150, 541, 300, 569]
+	      ZOrder		      4746
+	      Expr		      "0.5*u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn6"
+	      SID		      "754"
+	      Position		      [150, 656, 300, 684]
+	      ZOrder		      4747
+	      Expr		      "u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
 	      BlockType		      Gain
 	      Name		      "Gain"
 	      SID		      "491"
 	      Position		      [875, -20, 905, 10]
 	      ZOrder		      331
-	      Gain		      "8"
+	      Gain		      "7"
 	    }
 	    Block {
 	      BlockType		      Gain
@@ -6114,70 +6146,7 @@ Model {
 	      SID		      "494"
 	      Position		      [875, 285, 905, 315]
 	      ZOrder		      334
-	      Gain		      "7"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction"
-	      SID		      "495"
-	      Ports		      [1, 1]
-	      Position		      [235, -25, 305, 5]
-	      ZOrder		      194
-	      MATLABFcn		      "0.5*u(3)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction1"
-	      SID		      "496"
-	      Ports		      [1, 1]
-	      Position		      [235, 195, 305, 225]
-	      ZOrder		      297
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction2"
-	      SID		      "497"
-	      Ports		      [1, 1]
-	      Position		      [235, 310, 305, 340]
-	      ZOrder		      298
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction3"
-	      SID		      "498"
-	      Ports		      [1, 1]
-	      Position		      [235, 425, 305, 455]
-	      ZOrder		      299
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction4"
-	      SID		      "499"
-	      Ports		      [1, 1]
-	      Position		      [235, 540, 305, 570]
-	      ZOrder		      300
-	      MATLABFcn		      "0.5*u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction5"
-	      SID		      "500"
-	      Ports		      [1, 1]
-	      Position		      [235, 655, 305, 685]
-	      ZOrder		      301
-	      MATLABFcn		      "u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction6"
-	      SID		      "501"
-	      Ports		      [1, 1]
-	      Position		      [235, 80, 305, 110]
-	      ZOrder		      302
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)"
+	      Gain		      "8"
 	    }
 	    Block {
 	      BlockType		      Logic
@@ -6579,122 +6548,6 @@ Model {
 	      DstPort		      1
 	    }
 	    Line {
-	      ZOrder		      20
-	      SrcBlock		      "ramp"
-	      SrcPort		      1
-	      Points		      [268, 0; 0, 50]
-	      Branch {
-		ZOrder			21
-		DstBlock		"Relational\nOperator"
-		DstPort			1
-	      }
-	      Branch {
-		ZOrder			22
-		Points			[0, 60]
-		Branch {
-		  ZOrder		  23
-		  Points		  [0, 45]
-		  Branch {
-		    ZOrder		    24
-		    DstBlock		    "Relational\nOperator1"
-		    DstPort		    1
-		  }
-		  Branch {
-		    ZOrder		    25
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    26
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    27
-		    DstBlock		    "Relational\nOperator2"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    28
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    29
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    30
-		    DstBlock		    "Relational\nOperator3"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    31
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    32
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    33
-		    DstBlock		    "Relational\nOperator4"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    34
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    35
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    36
-		    DstBlock		    "Relational\nOperator5"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    37
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    38
-		    Points		    [0, 45]
-		    DstBlock		    "Relational\nOperator6"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    39
-		    DstBlock		    "Relational\nOperator7"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    40
-		    DstBlock		    "Relational\nOperator8"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    41
-		    DstBlock		    "Relational\nOperator9"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    42
-		    DstBlock		    "Relational\nOperator10"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    43
-		    DstBlock		    "Relational\nOperator11"
-		    DstPort		    1
-		    }
-		  }
-		}
-		Branch {
-		  ZOrder		  44
-		  DstBlock		  "Relational\nOperator12"
-		  DstPort		  1
-		}
-	      }
-	    }
-	    Line {
 	      ZOrder		      45
 	      SrcBlock		      "Relational\nOperator5"
 	      SrcPort		      1
@@ -6791,174 +6644,290 @@ Model {
 	      DstPort		      1
 	    }
 	    Line {
-	      ZOrder		      57
-	      SrcBlock		      "Interpreted MATLAB\nFunction4"
+	      ZOrder		      91
+	      SrcBlock		      "Fcn1"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [119, 0]
 	      Branch {
-		ZOrder			58
-		DstBlock		"Relational\nOperator5"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			59
+		ZOrder			169
 		Points			[0, 70]
-		DstBlock		"Relational\nOperator7"
+		DstBlock		"Relational\nOperator11"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			168
+		DstBlock		"Relational\nOperator1"
 		DstPort			2
 	      }
 	    }
 	    Line {
-	      ZOrder		      60
-	      SrcBlock		      "Interpreted MATLAB\nFunction5"
+	      ZOrder		      94
+	      SrcBlock		      "Fcn3"
 	      SrcPort		      1
-	      DstBlock		      "Relational\nOperator6"
-	      DstPort		      2
-	    }
-	    Line {
-	      ZOrder		      61
-	      SrcBlock		      "Interpreted MATLAB\nFunction3"
-	      SrcPort		      1
-	      Points		      [85, 0]
+	      Points		      [90, 0]
 	      Branch {
-		ZOrder			62
-		DstBlock		"Relational\nOperator4"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			63
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator8"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      64
-	      SrcBlock		      "Interpreted MATLAB\nFunction2"
-	      SrcPort		      1
-	      Points		      [85, 0]
-	      Branch {
-		ZOrder			65
+		ZOrder			171
 		DstBlock		"Relational\nOperator3"
 		DstPort			2
 	      }
 	      Branch {
-		ZOrder			66
+		ZOrder			170
 		Points			[0, 70]
 		DstBlock		"Relational\nOperator9"
 		DstPort			2
 	      }
 	    }
 	    Line {
-	      ZOrder		      67
-	      SrcBlock		      "Interpreted MATLAB\nFunction1"
+	      ZOrder		      119
+	      SrcBlock		      "ramp"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [353, 0; 0, 50]
 	      Branch {
-		ZOrder			68
-		DstBlock		"Relational\nOperator2"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			69
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator10"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      70
-	      SrcBlock		      "Interpreted MATLAB\nFunction6"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			71
-		DstBlock		"Relational\nOperator1"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			72
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator11"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      73
-	      SrcBlock		      "Interpreted MATLAB\nFunction"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			74
+		ZOrder			162
 		DstBlock		"Relational\nOperator"
-		DstPort			2
+		DstPort			1
 	      }
 	      Branch {
-		ZOrder			75
+		ZOrder			117
 		Points			[0, 60]
-		DstBlock		"Relational\nOperator12"
-		DstPort			2
+		Branch {
+		  ZOrder		  160
+		  DstBlock		  "Relational\nOperator12"
+		  DstPort		  1
+		}
+		Branch {
+		  ZOrder		  116
+		  Points		  [0, 45]
+		  Branch {
+		    ZOrder		    155
+		    DstBlock		    "Relational\nOperator1"
+		    DstPort		    1
+		  }
+		  Branch {
+		    ZOrder		    114
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    161
+		    DstBlock		    "Relational\nOperator11"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    113
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    163
+		    DstBlock		    "Relational\nOperator2"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    111
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    167
+		    DstBlock		    "Relational\nOperator10"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    110
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    164
+		    DstBlock		    "Relational\nOperator3"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    108
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    158
+		    DstBlock		    "Relational\nOperator9"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    107
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    159
+		    DstBlock		    "Relational\nOperator4"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    105
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    166
+		    DstBlock		    "Relational\nOperator8"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    104
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    157
+		    DstBlock		    "Relational\nOperator5"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    102
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    165
+		    Points		    [0, 45]
+		    DstBlock		    "Relational\nOperator6"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    156
+		    DstBlock		    "Relational\nOperator7"
+		    DstPort		    1
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		  }
+		}
 	      }
 	    }
 	    Line {
-	      ZOrder		      76
+	      ZOrder		      146
+	      SrcBlock		      "Fcn6"
+	      SrcPort		      1
+	      DstBlock		      "Relational\nOperator6"
+	      DstPort		      2
+	    }
+	    Line {
+	      ZOrder		      133
 	      SrcBlock		      "Txy-07"
 	      SrcPort		      1
 	      Points		      [41, 0]
 	      Branch {
-		ZOrder			77
-		DstBlock		"Interpreted MATLAB\nFunction"
+		ZOrder			132
+		DstBlock		"Fcn"
 		DstPort			1
 	      }
 	      Branch {
-		ZOrder			78
+		ZOrder			131
 		Points			[0, 105]
 		Branch {
-		  ZOrder		  79
-		  DstBlock		  "Interpreted MATLAB\nFunction6"
-		  DstPort		  1
-		}
-		Branch {
-		  ZOrder		  80
+		  ZOrder		  130
 		  Points		  [0, 115]
 		  Branch {
-		    ZOrder		    81
-		    DstBlock		    "Interpreted MATLAB\nFunction1"
+		    ZOrder		    129
+		    DstBlock		    "Fcn2"
 		    DstPort		    1
 		  }
 		  Branch {
-		    ZOrder		    82
+		    ZOrder		    128
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    83
-		    DstBlock		    "Interpreted MATLAB\nFunction2"
+		    ZOrder		    127
+		    DstBlock		    "Fcn3"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    84
+		    ZOrder		    126
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    85
-		    DstBlock		    "Interpreted MATLAB\nFunction3"
+		    ZOrder		    125
+		    DstBlock		    "Fcn4"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    86
+		    ZOrder		    124
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    87
-		    DstBlock		    "Interpreted MATLAB\nFunction4"
+		    ZOrder		    123
+		    Points		    [0, 115]
+		    DstBlock		    "Fcn6"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    88
-		    Points		    [0, 115]
-		    DstBlock		    "Interpreted MATLAB\nFunction5"
+		    ZOrder		    122
+		    DstBlock		    "Fcn5"
 		    DstPort		    1
 		    }
 		    }
 		    }
 		  }
 		}
+		Branch {
+		  ZOrder		  121
+		  DstBlock		  "Fcn1"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Line {
+	      ZOrder		      136
+	      SrcBlock		      "Fcn2"
+	      SrcPort		      1
+	      Points		      [94, 0]
+	      Branch {
+		ZOrder			152
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator10"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			151
+		DstBlock		"Relational\nOperator2"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      139
+	      SrcBlock		      "Fcn5"
+	      SrcPort		      1
+	      Points		      [89, 0]
+	      Branch {
+		ZOrder			148
+		DstBlock		"Relational\nOperator5"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			147
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator7"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      142
+	      SrcBlock		      "Fcn4"
+	      SrcPort		      1
+	      Points		      [90, 0]
+	      Branch {
+		ZOrder			154
+		DstBlock		"Relational\nOperator4"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			153
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator8"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      145
+	      SrcBlock		      "Fcn"
+	      SrcPort		      1
+	      Points		      [139, 0]
+	      Branch {
+		ZOrder			150
+		Points			[0, 60]
+		DstBlock		"Relational\nOperator12"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			149
+		DstBlock		"Relational\nOperator"
+		DstPort			2
 	      }
 	    }
 	    Annotation {
@@ -7045,7 +7014,7 @@ Model {
 	  ContentPreviewEnabled	  on
 	  System {
 	    Name		    "Subsystem5"
-	    Location		    [39, 65, 1427, 1121]
+	    Location		    [-8, 97, 1928, 1153]
 	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
@@ -7060,21 +7029,21 @@ Model {
 	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
 	    TiledPageScale	    1
 	    ShowPageBoundaries	    off
-	    ZoomFactor		    "125"
+	    ZoomFactor		    "80"
 	    SimulinkSubDomain	    "Simulink"
 	    Block {
 	      BlockType		      Inport
 	      Name		      "Txy-07"
-	      SID		      "527"
-	      Position		      [110, -17, 140, -3]
-	      ZOrder		      293
+	      SID		      "755"
+	      Position		      [25, -17, 55, -3]
+	      ZOrder		      4739
 	    }
 	    Block {
 	      BlockType		      Inport
 	      Name		      "ramp"
-	      SID		      "528"
-	      Position		      [110, -82, 140, -68]
-	      ZOrder		      303
+	      SID		      "756"
+	      Position		      [25, -82, 55, -68]
+	      ZOrder		      4740
 	      Port		      "2"
 	    }
 	    Block {
@@ -7118,6 +7087,62 @@ Model {
 	      SaturateOnIntegerOverflow	off
 	    }
 	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn"
+	      SID		      "757"
+	      Position		      [190, -25, 250, 5]
+	      ZOrder		      4741
+	      Expr		      "0.5*u(3)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn1"
+	      SID		      "758"
+	      Position		      [180, 79, 270, 111]
+	      ZOrder		      4742
+	      Expr		      "0.5*u(3)+0.5*u(1)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn2"
+	      SID		      "759"
+	      Position		      [150, 196, 295, 224]
+	      ZOrder		      4743
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn3"
+	      SID		      "760"
+	      Position		      [150, 311, 300, 339]
+	      ZOrder		      4744
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn4"
+	      SID		      "761"
+	      Position		      [150, 426, 300, 454]
+	      ZOrder		      4745
+	      Expr		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn5"
+	      SID		      "762"
+	      Position		      [150, 541, 300, 569]
+	      ZOrder		      4746
+	      Expr		      "0.5*u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn6"
+	      SID		      "763"
+	      Position		      [150, 656, 300, 684]
+	      ZOrder		      4747
+	      Expr		      "u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
 	      BlockType		      Gain
 	      Name		      "Gain"
 	      SID		      "533"
@@ -7148,69 +7173,6 @@ Model {
 	      Position		      [875, 285, 905, 315]
 	      ZOrder		      334
 	      Gain		      "7"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction"
-	      SID		      "537"
-	      Ports		      [1, 1]
-	      Position		      [235, -25, 305, 5]
-	      ZOrder		      194
-	      MATLABFcn		      "0.5*u(3)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction1"
-	      SID		      "538"
-	      Ports		      [1, 1]
-	      Position		      [235, 195, 305, 225]
-	      ZOrder		      297
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction2"
-	      SID		      "539"
-	      Ports		      [1, 1]
-	      Position		      [235, 310, 305, 340]
-	      ZOrder		      298
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction3"
-	      SID		      "540"
-	      Ports		      [1, 1]
-	      Position		      [235, 425, 305, 455]
-	      ZOrder		      299
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction4"
-	      SID		      "541"
-	      Ports		      [1, 1]
-	      Position		      [235, 540, 305, 570]
-	      ZOrder		      300
-	      MATLABFcn		      "0.5*u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction5"
-	      SID		      "542"
-	      Ports		      [1, 1]
-	      Position		      [235, 655, 305, 685]
-	      ZOrder		      301
-	      MATLABFcn		      "u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction6"
-	      SID		      "543"
-	      Ports		      [1, 1]
-	      Position		      [235, 80, 305, 110]
-	      ZOrder		      302
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)"
 	    }
 	    Block {
 	      BlockType		      Logic
@@ -7472,177 +7434,6 @@ Model {
 	      ZOrder		      341
 	    }
 	    Line {
-	      ZOrder		      1
-	      SrcBlock		      "Txy-07"
-	      SrcPort		      1
-	      Points		      [41, 0]
-	      Branch {
-		ZOrder			2
-		Points			[0, 105]
-		Branch {
-		  ZOrder		  3
-		  Points		  [0, 115]
-		  Branch {
-		    ZOrder		    4
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    5
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    6
-		    Points		    [0, 115]
-		    Branch {
-		    ZOrder		    7
-		    Points		    [0, 115]
-		    DstBlock		    "Interpreted MATLAB\nFunction5"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    8
-		    DstBlock		    "Interpreted MATLAB\nFunction4"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    9
-		    DstBlock		    "Interpreted MATLAB\nFunction3"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    10
-		    DstBlock		    "Interpreted MATLAB\nFunction2"
-		    DstPort		    1
-		    }
-		  }
-		  Branch {
-		    ZOrder		    11
-		    DstBlock		    "Interpreted MATLAB\nFunction1"
-		    DstPort		    1
-		  }
-		}
-		Branch {
-		  ZOrder		  12
-		  DstBlock		  "Interpreted MATLAB\nFunction6"
-		  DstPort		  1
-		}
-	      }
-	      Branch {
-		ZOrder			13
-		DstBlock		"Interpreted MATLAB\nFunction"
-		DstPort			1
-	      }
-	    }
-	    Line {
-	      ZOrder		      14
-	      SrcBlock		      "Interpreted MATLAB\nFunction"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			15
-		Points			[0, 60]
-		DstBlock		"Relational\nOperator12"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			16
-		DstBlock		"Relational\nOperator"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      17
-	      SrcBlock		      "Interpreted MATLAB\nFunction6"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			18
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator11"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			19
-		DstBlock		"Relational\nOperator1"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      20
-	      SrcBlock		      "Interpreted MATLAB\nFunction1"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			21
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator10"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			22
-		DstBlock		"Relational\nOperator2"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      23
-	      SrcBlock		      "Interpreted MATLAB\nFunction2"
-	      SrcPort		      1
-	      Points		      [85, 0]
-	      Branch {
-		ZOrder			24
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator9"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			25
-		DstBlock		"Relational\nOperator3"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      26
-	      SrcBlock		      "Interpreted MATLAB\nFunction3"
-	      SrcPort		      1
-	      Points		      [85, 0]
-	      Branch {
-		ZOrder			27
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator8"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			28
-		DstBlock		"Relational\nOperator4"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      29
-	      SrcBlock		      "Interpreted MATLAB\nFunction5"
-	      SrcPort		      1
-	      DstBlock		      "Relational\nOperator6"
-	      DstPort		      2
-	    }
-	    Line {
-	      ZOrder		      30
-	      SrcBlock		      "Interpreted MATLAB\nFunction4"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			31
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator7"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			32
-		DstBlock		"Relational\nOperator5"
-		DstPort			2
-	      }
-	    }
-	    Line {
 	      ZOrder		      33
 	      SrcBlock		      "Relational\nOperator7"
 	      SrcPort		      1
@@ -7737,122 +7528,6 @@ Model {
 	      Points		      [23, 0; 0, -15]
 	      DstBlock		      "Logical\nOperator1"
 	      DstPort		      2
-	    }
-	    Line {
-	      ZOrder		      45
-	      SrcBlock		      "ramp"
-	      SrcPort		      1
-	      Points		      [268, 0; 0, 50]
-	      Branch {
-		ZOrder			46
-		Points			[0, 60]
-		Branch {
-		  ZOrder		  47
-		  DstBlock		  "Relational\nOperator12"
-		  DstPort		  1
-		}
-		Branch {
-		  ZOrder		  48
-		  Points		  [0, 45]
-		  Branch {
-		    ZOrder		    49
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    50
-		    DstBlock		    "Relational\nOperator11"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    51
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    52
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    53
-		    DstBlock		    "Relational\nOperator10"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    54
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    55
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    56
-		    DstBlock		    "Relational\nOperator9"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    57
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    58
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    59
-		    DstBlock		    "Relational\nOperator8"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    60
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    61
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    62
-		    DstBlock		    "Relational\nOperator7"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    63
-		    Points		    [0, 45]
-		    DstBlock		    "Relational\nOperator6"
-		    DstPort		    1
-		    }
-		    }
-		    Branch {
-		    ZOrder		    64
-		    DstBlock		    "Relational\nOperator5"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    65
-		    DstBlock		    "Relational\nOperator4"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    66
-		    DstBlock		    "Relational\nOperator3"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    67
-		    DstBlock		    "Relational\nOperator2"
-		    DstPort		    1
-		    }
-		    }
-		  }
-		  Branch {
-		    ZOrder		    68
-		    DstBlock		    "Relational\nOperator1"
-		    DstPort		    1
-		  }
-		}
-	      }
-	      Branch {
-		ZOrder			69
-		DstBlock		"Relational\nOperator"
-		DstPort			1
-	      }
 	    }
 	    Line {
 	      ZOrder		      70
@@ -7994,6 +7669,293 @@ Model {
 	      DstBlock		      "V"
 	      DstPort		      1
 	    }
+	    Line {
+	      ZOrder		      91
+	      SrcBlock		      "Fcn1"
+	      SrcPort		      1
+	      Points		      [119, 0]
+	      Branch {
+		ZOrder			156
+		DstBlock		"Relational\nOperator1"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			155
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator11"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      94
+	      SrcBlock		      "Fcn3"
+	      SrcPort		      1
+	      Points		      [90, 0]
+	      Branch {
+		ZOrder			158
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator9"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			157
+		DstBlock		"Relational\nOperator3"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      119
+	      SrcBlock		      "ramp"
+	      SrcPort		      1
+	      Points		      [353, 0; 0, 50]
+	      Branch {
+		ZOrder			168
+		DstBlock		"Relational\nOperator"
+		DstPort			1
+	      }
+	      Branch {
+		ZOrder			117
+		Points			[0, 60]
+		Branch {
+		  ZOrder		  152
+		  DstBlock		  "Relational\nOperator12"
+		  DstPort		  1
+		}
+		Branch {
+		  ZOrder		  116
+		  Points		  [0, 45]
+		  Branch {
+		    ZOrder		    147
+		    DstBlock		    "Relational\nOperator1"
+		    DstPort		    1
+		  }
+		  Branch {
+		    ZOrder		    114
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    151
+		    DstBlock		    "Relational\nOperator11"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    113
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    146
+		    DstBlock		    "Relational\nOperator2"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    111
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    150
+		    DstBlock		    "Relational\nOperator10"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    110
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    166
+		    DstBlock		    "Relational\nOperator3"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    108
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    149
+		    DstBlock		    "Relational\nOperator9"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    107
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    167
+		    DstBlock		    "Relational\nOperator4"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    105
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    148
+		    DstBlock		    "Relational\nOperator8"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    104
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    169
+		    DstBlock		    "Relational\nOperator5"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    102
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    171
+		    DstBlock		    "Relational\nOperator7"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    170
+		    Points		    [0, 45]
+		    DstBlock		    "Relational\nOperator6"
+		    DstPort		    1
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		  }
+		}
+	      }
+	    }
+	    Line {
+	      ZOrder		      159
+	      SrcBlock		      "Fcn6"
+	      SrcPort		      1
+	      DstBlock		      "Relational\nOperator6"
+	      DstPort		      2
+	    }
+	    Line {
+	      ZOrder		      133
+	      SrcBlock		      "Txy-07"
+	      SrcPort		      1
+	      Points		      [41, 0]
+	      Branch {
+		ZOrder			132
+		DstBlock		"Fcn"
+		DstPort			1
+	      }
+	      Branch {
+		ZOrder			131
+		Points			[0, 105]
+		Branch {
+		  ZOrder		  130
+		  Points		  [0, 115]
+		  Branch {
+		    ZOrder		    129
+		    DstBlock		    "Fcn2"
+		    DstPort		    1
+		  }
+		  Branch {
+		    ZOrder		    128
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    127
+		    DstBlock		    "Fcn3"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    126
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    125
+		    DstBlock		    "Fcn4"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    124
+		    Points		    [0, 115]
+		    Branch {
+		    ZOrder		    123
+		    Points		    [0, 115]
+		    DstBlock		    "Fcn6"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    122
+		    DstBlock		    "Fcn5"
+		    DstPort		    1
+		    }
+		    }
+		    }
+		  }
+		}
+		Branch {
+		  ZOrder		  121
+		  DstBlock		  "Fcn1"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Line {
+	      ZOrder		      136
+	      SrcBlock		      "Fcn2"
+	      SrcPort		      1
+	      Points		      [94, 0]
+	      Branch {
+		ZOrder			161
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator10"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			160
+		DstBlock		"Relational\nOperator2"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      139
+	      SrcBlock		      "Fcn5"
+	      SrcPort		      1
+	      Points		      [89, 0]
+	      Branch {
+		ZOrder			165
+		DstBlock		"Relational\nOperator5"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			164
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator7"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      142
+	      SrcBlock		      "Fcn4"
+	      SrcPort		      1
+	      Points		      [90, 0]
+	      Branch {
+		ZOrder			163
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator8"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			162
+		DstBlock		"Relational\nOperator4"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      145
+	      SrcBlock		      "Fcn"
+	      SrcPort		      1
+	      Points		      [139, 0]
+	      Branch {
+		ZOrder			154
+		Points			[0, 60]
+		DstBlock		"Relational\nOperator12"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			153
+		DstBlock		"Relational\nOperator"
+		DstPort			2
+	      }
+	    }
 	    Annotation {
 	      SID		      "666"
 	      Name		      "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">"
@@ -8078,7 +8040,7 @@ Model {
 	  ContentPreviewEnabled	  on
 	  System {
 	    Name		    "Subsystem6"
-	    Location		    [39, 65, 1427, 1121]
+	    Location		    [-8, 97, 1928, 1153]
 	    Open		    off
 	    PortBlocksUseCompactNotation off
 	    SetExecutionDomain	    off
@@ -8093,21 +8055,21 @@ Model {
 	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
 	    TiledPageScale	    1
 	    ShowPageBoundaries	    off
-	    ZoomFactor		    "175"
+	    ZoomFactor		    "60"
 	    SimulinkSubDomain	    "Simulink"
 	    Block {
 	      BlockType		      Inport
 	      Name		      "Txy-07"
-	      SID		      "569"
-	      Position		      [110, -17, 140, -3]
-	      ZOrder		      293
+	      SID		      "764"
+	      Position		      [35, -17, 65, -3]
+	      ZOrder		      4739
 	    }
 	    Block {
 	      BlockType		      Inport
 	      Name		      "ramp"
-	      SID		      "570"
-	      Position		      [110, -82, 140, -68]
-	      ZOrder		      303
+	      SID		      "765"
+	      Position		      [35, -82, 65, -68]
+	      ZOrder		      4740
 	      Port		      "2"
 	    }
 	    Block {
@@ -8151,12 +8113,68 @@ Model {
 	      SaturateOnIntegerOverflow	off
 	    }
 	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn"
+	      SID		      "766"
+	      Position		      [200, -25, 260, 5]
+	      ZOrder		      4741
+	      Expr		      "0.5*u(3)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn1"
+	      SID		      "767"
+	      Position		      [190, 79, 280, 111]
+	      ZOrder		      4742
+	      Expr		      "0.5*u(3)+0.5*u(1)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn2"
+	      SID		      "768"
+	      Position		      [160, 196, 305, 224]
+	      ZOrder		      4743
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn3"
+	      SID		      "769"
+	      Position		      [160, 311, 310, 339]
+	      ZOrder		      4744
+	      Expr		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn4"
+	      SID		      "770"
+	      Position		      [160, 426, 310, 454]
+	      ZOrder		      4745
+	      Expr		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn5"
+	      SID		      "771"
+	      Position		      [160, 541, 310, 569]
+	      ZOrder		      4746
+	      Expr		      "0.5*u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
+	      BlockType		      Fcn
+	      Name		      "Fcn6"
+	      SID		      "772"
+	      Position		      [160, 656, 310, 684]
+	      ZOrder		      4747
+	      Expr		      "u(3)+u(1)+u(2)+u(4)"
+	    }
+	    Block {
 	      BlockType		      Gain
 	      Name		      "Gain"
 	      SID		      "575"
 	      Position		      [875, -20, 905, 10]
 	      ZOrder		      331
-	      Gain		      "8"
+	      Gain		      "7"
 	    }
 	    Block {
 	      BlockType		      Gain
@@ -8179,70 +8197,7 @@ Model {
 	      SID		      "578"
 	      Position		      [875, 285, 905, 315]
 	      ZOrder		      334
-	      Gain		      "7"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction"
-	      SID		      "579"
-	      Ports		      [1, 1]
-	      Position		      [235, -25, 305, 5]
-	      ZOrder		      194
-	      MATLABFcn		      "0.5*u(3)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction1"
-	      SID		      "580"
-	      Ports		      [1, 1]
-	      Position		      [235, 195, 305, 225]
-	      ZOrder		      297
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction2"
-	      SID		      "581"
-	      Ports		      [1, 1]
-	      Position		      [235, 310, 305, 340]
-	      ZOrder		      298
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+0.5*u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction3"
-	      SID		      "582"
-	      Ports		      [1, 1]
-	      Position		      [235, 425, 305, 455]
-	      ZOrder		      299
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction4"
-	      SID		      "583"
-	      Ports		      [1, 1]
-	      Position		      [235, 540, 305, 570]
-	      ZOrder		      300
-	      MATLABFcn		      "0.5*u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction5"
-	      SID		      "584"
-	      Ports		      [1, 1]
-	      Position		      [235, 655, 305, 685]
-	      ZOrder		      301
-	      MATLABFcn		      "u(3)+u(1)+u(2)+u(4)"
-	    }
-	    Block {
-	      BlockType		      MATLABFcn
-	      Name		      "Interpreted MATLAB\nFunction6"
-	      SID		      "585"
-	      Ports		      [1, 1]
-	      Position		      [235, 80, 305, 110]
-	      ZOrder		      302
-	      MATLABFcn		      "0.5*u(3)+0.5*u(1)"
+	      Gain		      "8"
 	    }
 	    Block {
 	      BlockType		      Logic
@@ -8644,122 +8599,6 @@ Model {
 	      DstPort		      1
 	    }
 	    Line {
-	      ZOrder		      20
-	      SrcBlock		      "ramp"
-	      SrcPort		      1
-	      Points		      [268, 0; 0, 50]
-	      Branch {
-		ZOrder			21
-		DstBlock		"Relational\nOperator"
-		DstPort			1
-	      }
-	      Branch {
-		ZOrder			22
-		Points			[0, 60]
-		Branch {
-		  ZOrder		  23
-		  Points		  [0, 45]
-		  Branch {
-		    ZOrder		    24
-		    DstBlock		    "Relational\nOperator1"
-		    DstPort		    1
-		  }
-		  Branch {
-		    ZOrder		    25
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    26
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    27
-		    DstBlock		    "Relational\nOperator2"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    28
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    29
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    30
-		    DstBlock		    "Relational\nOperator3"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    31
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    32
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    33
-		    DstBlock		    "Relational\nOperator4"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    34
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    35
-		    Points		    [0, 45]
-		    Branch {
-		    ZOrder		    36
-		    DstBlock		    "Relational\nOperator5"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    37
-		    Points		    [0, 70]
-		    Branch {
-		    ZOrder		    38
-		    Points		    [0, 45]
-		    DstBlock		    "Relational\nOperator6"
-		    DstPort		    1
-		    }
-		    Branch {
-		    ZOrder		    39
-		    DstBlock		    "Relational\nOperator7"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    40
-		    DstBlock		    "Relational\nOperator8"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    41
-		    DstBlock		    "Relational\nOperator9"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    42
-		    DstBlock		    "Relational\nOperator10"
-		    DstPort		    1
-		    }
-		    }
-		    }
-		    Branch {
-		    ZOrder		    43
-		    DstBlock		    "Relational\nOperator11"
-		    DstPort		    1
-		    }
-		  }
-		}
-		Branch {
-		  ZOrder		  44
-		  DstBlock		  "Relational\nOperator12"
-		  DstPort		  1
-		}
-	      }
-	    }
-	    Line {
 	      ZOrder		      45
 	      SrcBlock		      "Relational\nOperator5"
 	      SrcPort		      1
@@ -8856,174 +8695,290 @@ Model {
 	      DstPort		      1
 	    }
 	    Line {
-	      ZOrder		      57
-	      SrcBlock		      "Interpreted MATLAB\nFunction4"
+	      ZOrder		      91
+	      SrcBlock		      "Fcn1"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [119, 0]
 	      Branch {
-		ZOrder			58
-		DstBlock		"Relational\nOperator5"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			59
+		ZOrder			149
 		Points			[0, 70]
-		DstBlock		"Relational\nOperator7"
+		DstBlock		"Relational\nOperator11"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			146
+		DstBlock		"Relational\nOperator1"
 		DstPort			2
 	      }
 	    }
 	    Line {
-	      ZOrder		      60
-	      SrcBlock		      "Interpreted MATLAB\nFunction5"
+	      ZOrder		      94
+	      SrcBlock		      "Fcn3"
 	      SrcPort		      1
-	      DstBlock		      "Relational\nOperator6"
-	      DstPort		      2
-	    }
-	    Line {
-	      ZOrder		      61
-	      SrcBlock		      "Interpreted MATLAB\nFunction3"
-	      SrcPort		      1
-	      Points		      [85, 0]
+	      Points		      [90, 0]
 	      Branch {
-		ZOrder			62
-		DstBlock		"Relational\nOperator4"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			63
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator8"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      64
-	      SrcBlock		      "Interpreted MATLAB\nFunction2"
-	      SrcPort		      1
-	      Points		      [85, 0]
-	      Branch {
-		ZOrder			65
+		ZOrder			171
 		DstBlock		"Relational\nOperator3"
 		DstPort			2
 	      }
 	      Branch {
-		ZOrder			66
+		ZOrder			170
 		Points			[0, 70]
 		DstBlock		"Relational\nOperator9"
 		DstPort			2
 	      }
 	    }
 	    Line {
-	      ZOrder		      67
-	      SrcBlock		      "Interpreted MATLAB\nFunction1"
+	      ZOrder		      119
+	      SrcBlock		      "ramp"
 	      SrcPort		      1
-	      Points		      [84, 0]
+	      Points		      [353, 0; 0, 50]
 	      Branch {
-		ZOrder			68
-		DstBlock		"Relational\nOperator2"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			69
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator10"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      70
-	      SrcBlock		      "Interpreted MATLAB\nFunction6"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			71
-		DstBlock		"Relational\nOperator1"
-		DstPort			2
-	      }
-	      Branch {
-		ZOrder			72
-		Points			[0, 70]
-		DstBlock		"Relational\nOperator11"
-		DstPort			2
-	      }
-	    }
-	    Line {
-	      ZOrder		      73
-	      SrcBlock		      "Interpreted MATLAB\nFunction"
-	      SrcPort		      1
-	      Points		      [84, 0]
-	      Branch {
-		ZOrder			74
+		ZOrder			158
 		DstBlock		"Relational\nOperator"
-		DstPort			2
+		DstPort			1
 	      }
 	      Branch {
-		ZOrder			75
+		ZOrder			117
 		Points			[0, 60]
-		DstBlock		"Relational\nOperator12"
-		DstPort			2
+		Branch {
+		  ZOrder		  157
+		  DstBlock		  "Relational\nOperator12"
+		  DstPort		  1
+		}
+		Branch {
+		  ZOrder		  116
+		  Points		  [0, 45]
+		  Branch {
+		    ZOrder		    153
+		    DstBlock		    "Relational\nOperator1"
+		    DstPort		    1
+		  }
+		  Branch {
+		    ZOrder		    114
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    152
+		    DstBlock		    "Relational\nOperator11"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    113
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    154
+		    DstBlock		    "Relational\nOperator2"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    111
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    155
+		    DstBlock		    "Relational\nOperator10"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    110
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    156
+		    DstBlock		    "Relational\nOperator3"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    108
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    159
+		    DstBlock		    "Relational\nOperator9"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    107
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    160
+		    DstBlock		    "Relational\nOperator4"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    105
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    166
+		    DstBlock		    "Relational\nOperator8"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    104
+		    Points		    [0, 45]
+		    Branch {
+		    ZOrder		    161
+		    DstBlock		    "Relational\nOperator5"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    102
+		    Points		    [0, 70]
+		    Branch {
+		    ZOrder		    164
+		    Points		    [0, 45]
+		    DstBlock		    "Relational\nOperator6"
+		    DstPort		    1
+		    }
+		    Branch {
+		    ZOrder		    162
+		    DstBlock		    "Relational\nOperator7"
+		    DstPort		    1
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		    }
+		  }
+		}
 	      }
 	    }
 	    Line {
-	      ZOrder		      76
+	      ZOrder		      167
+	      SrcBlock		      "Fcn6"
+	      SrcPort		      1
+	      DstBlock		      "Relational\nOperator6"
+	      DstPort		      2
+	    }
+	    Line {
+	      ZOrder		      133
 	      SrcBlock		      "Txy-07"
 	      SrcPort		      1
 	      Points		      [41, 0]
 	      Branch {
-		ZOrder			77
-		DstBlock		"Interpreted MATLAB\nFunction"
+		ZOrder			132
+		DstBlock		"Fcn"
 		DstPort			1
 	      }
 	      Branch {
-		ZOrder			78
+		ZOrder			131
 		Points			[0, 105]
 		Branch {
-		  ZOrder		  79
-		  DstBlock		  "Interpreted MATLAB\nFunction6"
-		  DstPort		  1
-		}
-		Branch {
-		  ZOrder		  80
+		  ZOrder		  130
 		  Points		  [0, 115]
 		  Branch {
-		    ZOrder		    81
-		    DstBlock		    "Interpreted MATLAB\nFunction1"
+		    ZOrder		    129
+		    DstBlock		    "Fcn2"
 		    DstPort		    1
 		  }
 		  Branch {
-		    ZOrder		    82
+		    ZOrder		    128
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    83
-		    DstBlock		    "Interpreted MATLAB\nFunction2"
+		    ZOrder		    127
+		    DstBlock		    "Fcn3"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    84
+		    ZOrder		    126
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    85
-		    DstBlock		    "Interpreted MATLAB\nFunction3"
+		    ZOrder		    125
+		    DstBlock		    "Fcn4"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    86
+		    ZOrder		    124
 		    Points		    [0, 115]
 		    Branch {
-		    ZOrder		    87
-		    DstBlock		    "Interpreted MATLAB\nFunction4"
+		    ZOrder		    123
+		    Points		    [0, 115]
+		    DstBlock		    "Fcn6"
 		    DstPort		    1
 		    }
 		    Branch {
-		    ZOrder		    88
-		    Points		    [0, 115]
-		    DstBlock		    "Interpreted MATLAB\nFunction5"
+		    ZOrder		    122
+		    DstBlock		    "Fcn5"
 		    DstPort		    1
 		    }
 		    }
 		    }
 		  }
 		}
+		Branch {
+		  ZOrder		  121
+		  DstBlock		  "Fcn1"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Line {
+	      ZOrder		      136
+	      SrcBlock		      "Fcn2"
+	      SrcPort		      1
+	      Points		      [94, 0]
+	      Branch {
+		ZOrder			148
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator10"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			147
+		DstBlock		"Relational\nOperator2"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      139
+	      SrcBlock		      "Fcn5"
+	      SrcPort		      1
+	      Points		      [89, 0]
+	      Branch {
+		ZOrder			151
+		DstBlock		"Relational\nOperator5"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			150
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator7"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      142
+	      SrcBlock		      "Fcn4"
+	      SrcPort		      1
+	      Points		      [90, 0]
+	      Branch {
+		ZOrder			169
+		Points			[0, 70]
+		DstBlock		"Relational\nOperator8"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			168
+		DstBlock		"Relational\nOperator4"
+		DstPort			2
+	      }
+	    }
+	    Line {
+	      ZOrder		      145
+	      SrcBlock		      "Fcn"
+	      SrcPort		      1
+	      Points		      [139, 0]
+	      Branch {
+		ZOrder			165
+		DstBlock		"Relational\nOperator"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			163
+		Points			[0, 60]
+		DstBlock		"Relational\nOperator12"
+		DstPort			2
 	      }
 	    }
 	    Annotation {
@@ -9126,30 +9081,30 @@ Model {
 	    ZOrder		    372
 	    Points		    [0, 55]
 	    Branch {
-	      ZOrder		      371
+	      ZOrder		      431
 	      DstBlock		      "Subsystem3"
 	      DstPort		      1
 	    }
 	    Branch {
-	      ZOrder		      370
+	      ZOrder		      430
 	      Points		      [0, 55]
 	      Branch {
-		ZOrder			368
+		ZOrder			442
 		DstBlock		"Subsystem4"
 		DstPort			1
 	      }
 	      Branch {
-		ZOrder			367
-		Points			[0, 55]
+		ZOrder			439
+		Points			[0, 55; 1, 0]
 		Branch {
-		  ZOrder		  366
-		  DstBlock		  "Subsystem5"
+		  ZOrder		  441
+		  Points		  [0, 55]
+		  DstBlock		  "Subsystem6"
 		  DstPort		  1
 		}
 		Branch {
-		  ZOrder		  365
-		  Points		  [0, 55]
-		  DstBlock		  "Subsystem6"
+		  ZOrder		  440
+		  DstBlock		  "Subsystem5"
 		  DstPort		  1
 		}
 	      }
@@ -9161,6 +9116,11 @@ Model {
 	  SrcBlock		  "ramp"
 	  SrcPort		  1
 	  Points		  [96, 0]
+	  Branch {
+	    ZOrder		    432
+	    DstBlock		    "Subsystem3"
+	    DstPort		    2
+	  }
 	  Branch {
 	    ZOrder		    350
 	    Points		    [0, -55]
@@ -9180,30 +9140,25 @@ Model {
 	    ZOrder		    352
 	    Points		    [0, 55]
 	    Branch {
-	      ZOrder		      354
+	      ZOrder		      485
 	      Points		      [0, 55]
 	      Branch {
-		ZOrder			380
+		ZOrder			487
+		DstBlock		"Subsystem5"
+		DstPort			2
+	      }
+	      Branch {
+		ZOrder			486
 		Points			[0, 55]
 		DstBlock		"Subsystem6"
 		DstPort			2
 	      }
-	      Branch {
-		ZOrder			356
-		DstBlock		"Subsystem5"
-		DstPort			2
-	      }
 	    }
 	    Branch {
-	      ZOrder		      355
+	      ZOrder		      484
 	      DstBlock		      "Subsystem4"
 	      DstPort		      2
 	    }
-	  }
-	  Branch {
-	    ZOrder		    351
-	    DstBlock		    "Subsystem3"
-	    DstPort		    2
 	  }
 	}
 	Line {
@@ -9218,7 +9173,7 @@ Model {
 	  ZOrder		  387
 	  SrcBlock		  "Subsystem6"
 	  SrcPort		  1
-	  Points		  [120, 0; 0, -200]
+	  Points		  [118, 0; 0, -200]
 	  DstBlock		  "Multiport\nSwitch1"
 	  DstPort		  7
 	}
@@ -9226,7 +9181,7 @@ Model {
 	  ZOrder		  386
 	  SrcBlock		  "Subsystem5"
 	  SrcPort		  1
-	  Points		  [100, 0; 0, -165]
+	  Points		  [80, 0; 0, -165]
 	  DstBlock		  "Multiport\nSwitch1"
 	  DstPort		  6
 	}
@@ -9234,7 +9189,7 @@ Model {
 	  ZOrder		  384
 	  SrcBlock		  "Subsystem3"
 	  SrcPort		  1
-	  Points		  [60, 0; 0, -95]
+	  Points		  [18, 0; 0, -95]
 	  DstBlock		  "Multiport\nSwitch1"
 	  DstPort		  4
 	}
@@ -9257,7 +9212,7 @@ Model {
 	  ZOrder		  385
 	  SrcBlock		  "Subsystem4"
 	  SrcPort		  1
-	  Points		  [80, 0; 0, -130]
+	  Points		  [7, 0; 0, -130]
 	  DstBlock		  "Multiport\nSwitch1"
 	  DstPort		  5
 	}
@@ -9553,7 +9508,7 @@ Model {
       Name		      "powergui"
       SID		      "720"
       Ports		      []
-      Position		      [1165, -490, 1246, -451]
+      Position		      [860, -115, 941, -76]
       ZOrder		      1967
       Priority		      "1"
       LibraryVersion	      "1.2843"
@@ -10746,7 +10701,7 @@ Model {
 	Points			[0, -80; 644, 0]
 	Branch {
 	  ZOrder		  519
-	  Points		  [0, 53; 434, 0; 0, 97]
+	  Points		  [0, 53; 466, 0; 0, 97]
 	  DstBlock		  "Scope2"
 	  DstPort		  1
 	}
@@ -10910,7 +10865,7 @@ Model {
 	Points			[0, -27]
 	Branch {
 	  ZOrder		  524
-	  Points		  [199, 0; 0, 92]
+	  Points		  [221, 0; 0, 92]
 	  DstBlock		  "Scope2"
 	  DstPort		  2
 	}
